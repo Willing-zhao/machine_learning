@@ -12,4 +12,4 @@
 引入的详细包如下
 
 
-![Image text](https://github.com/Willing-zhao/Text/blob/master/QQ%E6%88%AA%E5%9B%BE20210103203731.png)
+![Image text](https://github.com/Willing-zhao/Text/blob/master/QQ截图20210103203731.png)
